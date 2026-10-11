@@ -1,0 +1,4 @@
+streamlit
+fastembed
+groq
+pymupdf
